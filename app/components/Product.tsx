@@ -126,6 +126,8 @@ const Product = () => {
       "
             src={clarifon_features}
             alt="clarifon"
+            priority={true}
+            placeholder="blur"
           />
           {/* Desktop: Customer Review */}
           <div
@@ -161,6 +163,8 @@ const Product = () => {
             "
                 src={customer_review}
                 alt="customer_review"
+                priority={true}
+                placeholder="blur"
               />
               <div
                 className="
@@ -180,30 +184,40 @@ const Product = () => {
                     lg:w-[11.95px] lg:h-[11.95px]"
                     src={stars}
                     alt="stars_review"
+                    priority={true}
+                    placeholder="blur"
                   />
                   <Image
                     className="
                     lg:w-[11.95px] lg:h-[11.95px]"
                     src={stars}
                     alt="stars_review"
+                    priority={true}
+                    placeholder="blur"
                   />
                   <Image
                     className="
                     lg:w-[11.95px] lg:h-[11.95px]"
                     src={stars}
                     alt="stars_review"
+                    priority={true}
+                    placeholder="blur"
                   />
                   <Image
                     className="
                     lg:w-[11.95px] lg:h-[11.95px]"
                     src={stars}
                     alt="stars_review"
+                    priority={true}
+                    placeholder="blur"
                   />
                   <Image
                     className="
                     lg:w-[11.95px] lg:h-[11.95px]"
                     src={stars}
                     alt="stars_review"
+                    priority={true}
+                    placeholder="blur"
                   />
                 </div>
                 <div
@@ -423,6 +437,8 @@ const Product = () => {
                 h-[12px]"
                     src={stars}
                     alt="stars"
+                    priority={true}
+                    placeholder="blur"
                   />
                   <Image
                     className="
@@ -430,6 +446,8 @@ const Product = () => {
                 h-[12px]"
                     src={stars}
                     alt="stars"
+                    priority={true}
+                    placeholder="blur"
                   />
                   <Image
                     className="
@@ -437,6 +455,8 @@ const Product = () => {
                 h-[12px]"
                     src={stars}
                     alt="stars"
+                    priority={true}
+                    placeholder="blur"
                   />
                   <Image
                     className="
@@ -444,6 +464,8 @@ const Product = () => {
                 h-[12px]"
                     src={stars}
                     alt="stars"
+                    priority={true}
+                    placeholder="blur"
                   />
                   <Image
                     className="
@@ -451,6 +473,8 @@ const Product = () => {
                 h-[12px]"
                     src={stars}
                     alt="stars"
+                    priority={true}
+                    placeholder="blur"
                   />
                 </div>
                 <div
@@ -587,6 +611,8 @@ const Product = () => {
                 lg:h-[134px]"
                 src={clarifon}
                 alt="clarifon"
+                priority={true}
+                placeholder="blur"
               />
             </div>
             <div
@@ -1299,6 +1325,8 @@ const Product = () => {
                     className="
                     lg:w-[12px] 
                     lg:h-[12px]"
+                    priority={true}
+                    placeholder="blur"
                   />
                   <div
                     className="
@@ -1332,6 +1360,8 @@ const Product = () => {
                     className="
                     lg:w-[24px]
                     lg:h-[14px]"
+                    priority={true}
+                    placeholder="blur"
                   />
                   <Image
                     src={shop_pay}
@@ -1339,6 +1369,8 @@ const Product = () => {
                     className="
                     lg:w-[24px]
                     lg:h-[14px]"
+                    priority={true}
+                    placeholder="blur"
                   />
                   <Image
                     src={paypal}
@@ -1346,6 +1378,8 @@ const Product = () => {
                     className="
                     lg:w-[24px]
                     lg:h-[14px]"
+                    priority={true}
+                    placeholder="blur"
                   />
                   <Image
                     src={mastercard}
@@ -1353,6 +1387,8 @@ const Product = () => {
                     className="
                     lg:w-[24px]
                     lg:h-[14px]"
+                    priority={true}
+                    placeholder="blur"
                   />
                   <Image
                     src={google_pay}
@@ -1360,6 +1396,8 @@ const Product = () => {
                     className="
                     lg:w-[24px]
                     lg:h-[14px]"
+                    priority={true}
+                    placeholder="blur"
                   />
                   <Image
                     src={apple_pay}
@@ -1367,6 +1405,8 @@ const Product = () => {
                     className="
                     lg:w-[24px]
                     lg:h-[14px]"
+                    priority={true}
+                    placeholder="blur"
                   />
                   <Image
                     src={amex}
@@ -1374,6 +1414,8 @@ const Product = () => {
                     className="
                     lg:w-[24px]
                     lg:h-[14px]"
+                    priority={true}
+                    placeholder="blur"
                   />
                 </div>
               </div>
@@ -1446,6 +1488,8 @@ const Product = () => {
                     className="
                     lg:w-[24px]
                     lg:h-[14px]"
+                    priority={true}
+                    placeholder="blur"
                   />
                   <Image
                     src={shop_pay}
@@ -1453,6 +1497,8 @@ const Product = () => {
                     className="
                     lg:w-[24px]
                     lg:h-[14px]"
+                    priority={true}
+                    placeholder="blur"
                   />
                   <Image
                     src={paypal}
@@ -1460,6 +1506,8 @@ const Product = () => {
                     className="
                     lg:w-[24px]
                     lg:h-[14px]"
+                    priority={true}
+                    placeholder="blur"
                   />
                   <Image
                     src={mastercard}
@@ -1467,6 +1515,8 @@ const Product = () => {
                     className="
                     lg:w-[24px]
                     lg:h-[14px]"
+                    priority={true}
+                    placeholder="blur"
                   />
                   <Image
                     src={google_pay}
@@ -1474,6 +1524,8 @@ const Product = () => {
                     className="
                     lg:w-[24px]
                     lg:h-[14px]"
+                    priority={true}
+                    placeholder="blur"
                   />
                   <Image
                     src={apple_pay}
@@ -1481,6 +1533,8 @@ const Product = () => {
                     className="
                     lg:w-[24px]
                     lg:h-[14px]"
+                    priority={true}
+                    placeholder="blur"
                   />
                   <Image
                     src={amex}
@@ -1488,6 +1542,8 @@ const Product = () => {
                     className="
                     lg:w-[24px]
                     lg:h-[14px]"
+                    priority={true}
+                    placeholder="blur"
                   />
                 </div>
               </div>
@@ -1528,6 +1584,8 @@ const Product = () => {
               lg:h-[88px]"
               src={satisfaction}
               alt="satisfaction_guarantee"
+              priority={true}
+              placeholder="blur"
             />
             <div
               className="
